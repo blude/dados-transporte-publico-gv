@@ -118,13 +118,27 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
+                    -40.31454611030445,
+                    -20.34614069211273
+                ]
+            },
+            "properties": {
+                "name": "T. Ibes",
+                "id": "09"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
                     -40.37254059829001,
                     -20.32369122505902
                 ]
             },
             "properties": {
                 "name": "T. Itacibá",
-                "id": "09"
+                "id": "10"
             }
         }
     ]
