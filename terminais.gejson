@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.32120364743761,
+                    -20.39157029888938,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Itaparica"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.29474632951932,
+                    -20.34294652643772,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Vila Velha"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.27004522695863,
+                    -20.23058305147726,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Carapina"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.25535046754877,
+                    -20.1936629843442,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Laranjeiras"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.19591229237463,
+                    -20.1593434223342,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Jacaraípe"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.3531238771719,
+                    -20.33010460602798,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. São Torquato"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.35915715535049,
+                    -20.33378456996435,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Jardim América"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.39637229458069,
+                    -20.34625171320852,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Campo Grande"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -40.37254059829001,
+                    -20.32369122505902,
+                    0
+                ]
+            },
+            "properties": {
+                "name": "T. Itacibá"
+            }
+        }
+    ]
+}
