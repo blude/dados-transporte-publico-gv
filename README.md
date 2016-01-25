@@ -1,8 +1,8 @@
-# Dados sobre transporte público na Grande Vitória
+# Dados abertos transporte público Grande Vitória
 
 Itinerários, horários, mapas e informações sobre ônibus metropolitano e municipal.
 
-Utilize os dados desse repositório para construir algum aplicativo legal.
+Utilize os dados desse repositório para criar experimentos, mapas interativos ou algum aplicativo legal de utilidade pública.
 
 ## Contribuir
 
